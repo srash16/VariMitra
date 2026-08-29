@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Theme.Varimitra" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.VariMitra" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#F8F7F3</item>
+        <item name="android:navigationBarColor">#F8F7F3</item>
+        <item name="android:colorAccent">#4B2E83</item>
+    </style>
+
 </resources>
