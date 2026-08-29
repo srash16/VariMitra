@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+ai-backend/venv/
+ai-backend/models/*.gguf
+__pycache__/
+*.pyc
