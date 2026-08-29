@@ -1,0 +1,22 @@
+services:
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: varimitra
+      POSTGRES_PASSWORD: varimitra
+      POSTGRES_DB: varimitra
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./supabase/VariMitra_Database_v3.0.sql:/docker-entrypoint-initdb.d/01_schema.sql:ro
+      - ./supabase/rls.sql:/docker-entrypoint-initdb.d/02_rls.sql:ro
+      - ./supabase/seed.sql:/docker-entrypoint-initdb.d/03_seed.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U varimitra -d varimitra"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+volumes:
+  postgres_data:

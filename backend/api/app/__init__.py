@@ -1,0 +1,1 @@
+"""VariMitra FastAPI application."""

@@ -1,0 +1,219 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://varimitra.local/schemas/action.schema.json",
+  "title": "VariMitraAction",
+  "description": "Frozen TRD v2.0 allow-list. SOS is not an LLM action. GENERAL_QUESTION is the only action that may carry free text.",
+  "oneOf": [
+    {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["action", "parameters"],
+      "properties": {
+        "action": { "const": "OPEN_SECTION" },
+        "parameters": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["category"],
+          "properties": {
+            "category": {
+              "type": "string",
+              "enum": ["WATER", "FOOD", "MEDICAL", "TOILET", "ACCOMMODATION", "TRANSPORT", "WOMEN"]
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["action", "parameters"],
+      "properties": {
+        "action": { "const": "CLOSE_SECTION" },
+        "parameters": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "current_section": { "type": "string" }
+          }
+        }
+      }
+    },
+    {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["action", "parameters"],
+      "properties": {
+        "action": { "const": "GO_BACK" },
+        "parameters": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {}
+        }
+      }
+    },
+    {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["action", "parameters"],
+      "properties": {
+        "action": { "const": "FIND_NEAREST" },
+        "parameters": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["category"],
+          "properties": {
+            "category": {
+              "type": "string",
+              "enum": ["WATER", "FOOD", "MEDICAL", "TOILET", "ACCOMMODATION", "TRANSPORT", "WOMEN"]
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["action", "parameters"],
+      "properties": {
+        "action": { "const": "SHOW_ROUTE" },
+        "parameters": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["destination"],
+          "properties": {
+            "destination": { "type": "string" }
+          }
+        }
+      }
+    },
+    {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["action", "parameters"],
+      "properties": {
+        "action": { "const": "GET_DISTANCE" },
+        "parameters": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["location"],
+          "properties": {
+            "location": { "type": "string" }
+          }
+        }
+      }
+    },
+    {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["action", "parameters"],
+      "properties": {
+        "action": { "const": "SELECT_LOCATION" },
+        "parameters": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["location_id"],
+          "properties": {
+            "location_id": { "type": "string" }
+          }
+        }
+      }
+    },
+    {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["action", "parameters"],
+      "properties": {
+        "action": { "const": "READ_INFORMATION" },
+        "parameters": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["info_key"],
+          "properties": {
+            "info_key": { "type": "string" }
+          }
+        }
+      }
+    },
+    {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["action", "parameters"],
+      "properties": {
+        "action": { "const": "GENERAL_QUESTION" },
+        "parameters": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["text"],
+          "properties": {
+            "text": { "type": "string", "minLength": 1 }
+          }
+        }
+      }
+    },
+    {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["action", "parameters"],
+      "properties": {
+        "action": { "const": "STOP" },
+        "parameters": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {}
+        }
+      }
+    },
+    {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["action", "parameters"],
+      "properties": {
+        "action": { "const": "GET_WARI_STATUS" },
+        "parameters": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["date"],
+          "properties": {
+            "date": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$" },
+            "time": { "type": "string", "pattern": "^[0-9]{2}:[0-9]{2}$" },
+            "palkhi": { "type": "string" }
+          }
+        }
+      }
+    },
+    {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["action", "parameters"],
+      "properties": {
+        "action": { "const": "LOST_PERSON_REPORT" },
+        "parameters": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["description"],
+          "properties": {
+            "description": { "type": "string", "minLength": 1 },
+            "location": { "type": "string" },
+            "family_link_id": { "type": "string" }
+          }
+        }
+      }
+    },
+    {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["action", "parameters"],
+      "properties": {
+        "action": { "const": "FAMILY_STATUS" },
+        "parameters": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "family_link_id": { "type": "string" },
+            "device_id": { "type": "string" }
+          }
+        }
+      }
+    }
+  ]
+}

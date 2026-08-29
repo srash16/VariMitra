@@ -1,0 +1,218 @@
+{"id": "vm-0001", "language": "en", "style": "direct", "utterance": "Open water", "action": {"action": "OPEN_SECTION", "parameters": {"category": "WATER"}}}
+{"id": "vm-0002", "language": "en", "style": "indirect", "utterance": "I want to see water", "action": {"action": "OPEN_SECTION", "parameters": {"category": "WATER"}}}
+{"id": "vm-0003", "language": "en", "style": "short", "utterance": "water", "action": {"action": "OPEN_SECTION", "parameters": {"category": "WATER"}}}
+{"id": "vm-0004", "language": "en", "style": "noisy", "utterance": "uh open water please", "action": {"action": "OPEN_SECTION", "parameters": {"category": "WATER"}}}
+{"id": "vm-0005", "language": "hi", "style": "direct", "utterance": "पानी खोलो", "action": {"action": "OPEN_SECTION", "parameters": {"category": "WATER"}}}
+{"id": "vm-0006", "language": "hi", "style": "indirect", "utterance": "मुझे पानी दिखाइए", "action": {"action": "OPEN_SECTION", "parameters": {"category": "WATER"}}}
+{"id": "vm-0007", "language": "hi", "style": "short", "utterance": "पानी", "action": {"action": "OPEN_SECTION", "parameters": {"category": "WATER"}}}
+{"id": "vm-0008", "language": "hi", "style": "noisy", "utterance": "अरे पानी खोलो", "action": {"action": "OPEN_SECTION", "parameters": {"category": "WATER"}}}
+{"id": "vm-0009", "language": "mr", "style": "direct", "utterance": "पाणी उघडा", "action": {"action": "OPEN_SECTION", "parameters": {"category": "WATER"}}}
+{"id": "vm-0010", "language": "mr", "style": "indirect", "utterance": "मला पाणी दाखवा", "action": {"action": "OPEN_SECTION", "parameters": {"category": "WATER"}}}
+{"id": "vm-0011", "language": "mr", "style": "short", "utterance": "पाणी", "action": {"action": "OPEN_SECTION", "parameters": {"category": "WATER"}}}
+{"id": "vm-0012", "language": "mr", "style": "noisy", "utterance": "ए पाणी उघडा", "action": {"action": "OPEN_SECTION", "parameters": {"category": "WATER"}}}
+{"id": "vm-0013", "language": "en", "style": "direct", "utterance": "Find nearest water", "action": {"action": "FIND_NEAREST", "parameters": {"category": "WATER"}}}
+{"id": "vm-0014", "language": "en", "style": "indirect", "utterance": "Where is the closest water?", "action": {"action": "FIND_NEAREST", "parameters": {"category": "WATER"}}}
+{"id": "vm-0015", "language": "en", "style": "short", "utterance": "nearest water", "action": {"action": "FIND_NEAREST", "parameters": {"category": "WATER"}}}
+{"id": "vm-0016", "language": "en", "style": "noisy", "utterance": "find uh nearest water", "action": {"action": "FIND_NEAREST", "parameters": {"category": "WATER"}}}
+{"id": "vm-0017", "language": "hi", "style": "direct", "utterance": "सबसे नजदीक पानी ढूंढो", "action": {"action": "FIND_NEAREST", "parameters": {"category": "WATER"}}}
+{"id": "vm-0018", "language": "hi", "style": "indirect", "utterance": "सबसे पास पानी कहाँ है?", "action": {"action": "FIND_NEAREST", "parameters": {"category": "WATER"}}}
+{"id": "vm-0019", "language": "hi", "style": "short", "utterance": "नजदीक पानी", "action": {"action": "FIND_NEAREST", "parameters": {"category": "WATER"}}}
+{"id": "vm-0020", "language": "hi", "style": "noisy", "utterance": "पास वाला पानी बताओ", "action": {"action": "FIND_NEAREST", "parameters": {"category": "WATER"}}}
+{"id": "vm-0021", "language": "mr", "style": "direct", "utterance": "सर्वात जवळचे पाणी शोधा", "action": {"action": "FIND_NEAREST", "parameters": {"category": "WATER"}}}
+{"id": "vm-0022", "language": "mr", "style": "indirect", "utterance": "सर्वात जवळ पाणी कुठे आहे?", "action": {"action": "FIND_NEAREST", "parameters": {"category": "WATER"}}}
+{"id": "vm-0023", "language": "mr", "style": "short", "utterance": "जवळचे पाणी", "action": {"action": "FIND_NEAREST", "parameters": {"category": "WATER"}}}
+{"id": "vm-0024", "language": "mr", "style": "noisy", "utterance": "जवळचं पाणी सांगा", "action": {"action": "FIND_NEAREST", "parameters": {"category": "WATER"}}}
+{"id": "vm-0025", "language": "en", "style": "direct", "utterance": "Open food", "action": {"action": "OPEN_SECTION", "parameters": {"category": "FOOD"}}}
+{"id": "vm-0026", "language": "en", "style": "indirect", "utterance": "I want to see food", "action": {"action": "OPEN_SECTION", "parameters": {"category": "FOOD"}}}
+{"id": "vm-0027", "language": "en", "style": "short", "utterance": "food", "action": {"action": "OPEN_SECTION", "parameters": {"category": "FOOD"}}}
+{"id": "vm-0028", "language": "en", "style": "noisy", "utterance": "uh open food please", "action": {"action": "OPEN_SECTION", "parameters": {"category": "FOOD"}}}
+{"id": "vm-0029", "language": "hi", "style": "direct", "utterance": "खाना खोलो", "action": {"action": "OPEN_SECTION", "parameters": {"category": "FOOD"}}}
+{"id": "vm-0030", "language": "hi", "style": "indirect", "utterance": "मुझे खाना दिखाइए", "action": {"action": "OPEN_SECTION", "parameters": {"category": "FOOD"}}}
+{"id": "vm-0031", "language": "hi", "style": "short", "utterance": "खाना", "action": {"action": "OPEN_SECTION", "parameters": {"category": "FOOD"}}}
+{"id": "vm-0032", "language": "hi", "style": "noisy", "utterance": "अरे खाना खोलो", "action": {"action": "OPEN_SECTION", "parameters": {"category": "FOOD"}}}
+{"id": "vm-0033", "language": "mr", "style": "direct", "utterance": "जेवण उघडा", "action": {"action": "OPEN_SECTION", "parameters": {"category": "FOOD"}}}
+{"id": "vm-0034", "language": "mr", "style": "indirect", "utterance": "मला जेवण दाखवा", "action": {"action": "OPEN_SECTION", "parameters": {"category": "FOOD"}}}
+{"id": "vm-0035", "language": "mr", "style": "short", "utterance": "जेवण", "action": {"action": "OPEN_SECTION", "parameters": {"category": "FOOD"}}}
+{"id": "vm-0036", "language": "mr", "style": "noisy", "utterance": "ए जेवण उघडा", "action": {"action": "OPEN_SECTION", "parameters": {"category": "FOOD"}}}
+{"id": "vm-0037", "language": "en", "style": "direct", "utterance": "Find nearest food", "action": {"action": "FIND_NEAREST", "parameters": {"category": "FOOD"}}}
+{"id": "vm-0038", "language": "en", "style": "indirect", "utterance": "Where is the closest food?", "action": {"action": "FIND_NEAREST", "parameters": {"category": "FOOD"}}}
+{"id": "vm-0039", "language": "en", "style": "short", "utterance": "nearest food", "action": {"action": "FIND_NEAREST", "parameters": {"category": "FOOD"}}}
+{"id": "vm-0040", "language": "en", "style": "noisy", "utterance": "find uh nearest food", "action": {"action": "FIND_NEAREST", "parameters": {"category": "FOOD"}}}
+{"id": "vm-0041", "language": "hi", "style": "direct", "utterance": "सबसे नजदीक खाना ढूंढो", "action": {"action": "FIND_NEAREST", "parameters": {"category": "FOOD"}}}
+{"id": "vm-0042", "language": "hi", "style": "indirect", "utterance": "सबसे पास खाना कहाँ है?", "action": {"action": "FIND_NEAREST", "parameters": {"category": "FOOD"}}}
+{"id": "vm-0043", "language": "hi", "style": "short", "utterance": "नजदीक खाना", "action": {"action": "FIND_NEAREST", "parameters": {"category": "FOOD"}}}
+{"id": "vm-0044", "language": "hi", "style": "noisy", "utterance": "पास वाला खाना बताओ", "action": {"action": "FIND_NEAREST", "parameters": {"category": "FOOD"}}}
+{"id": "vm-0045", "language": "mr", "style": "direct", "utterance": "सर्वात जवळचे जेवण शोधा", "action": {"action": "FIND_NEAREST", "parameters": {"category": "FOOD"}}}
+{"id": "vm-0046", "language": "mr", "style": "indirect", "utterance": "सर्वात जवळ जेवण कुठे आहे?", "action": {"action": "FIND_NEAREST", "parameters": {"category": "FOOD"}}}
+{"id": "vm-0047", "language": "mr", "style": "short", "utterance": "जवळचे जेवण", "action": {"action": "FIND_NEAREST", "parameters": {"category": "FOOD"}}}
+{"id": "vm-0048", "language": "mr", "style": "noisy", "utterance": "जवळचं जेवण सांगा", "action": {"action": "FIND_NEAREST", "parameters": {"category": "FOOD"}}}
+{"id": "vm-0049", "language": "en", "style": "direct", "utterance": "Open medical help", "action": {"action": "OPEN_SECTION", "parameters": {"category": "MEDICAL"}}}
+{"id": "vm-0050", "language": "en", "style": "indirect", "utterance": "I want to see medical help", "action": {"action": "OPEN_SECTION", "parameters": {"category": "MEDICAL"}}}
+{"id": "vm-0051", "language": "en", "style": "short", "utterance": "medical help", "action": {"action": "OPEN_SECTION", "parameters": {"category": "MEDICAL"}}}
+{"id": "vm-0052", "language": "en", "style": "noisy", "utterance": "uh open medical help please", "action": {"action": "OPEN_SECTION", "parameters": {"category": "MEDICAL"}}}
+{"id": "vm-0053", "language": "hi", "style": "direct", "utterance": "डॉक्टर खोलो", "action": {"action": "OPEN_SECTION", "parameters": {"category": "MEDICAL"}}}
+{"id": "vm-0054", "language": "hi", "style": "indirect", "utterance": "मुझे डॉक्टर दिखाइए", "action": {"action": "OPEN_SECTION", "parameters": {"category": "MEDICAL"}}}
+{"id": "vm-0055", "language": "hi", "style": "short", "utterance": "डॉक्टर", "action": {"action": "OPEN_SECTION", "parameters": {"category": "MEDICAL"}}}
+{"id": "vm-0056", "language": "hi", "style": "noisy", "utterance": "अरे डॉक्टर खोलो", "action": {"action": "OPEN_SECTION", "parameters": {"category": "MEDICAL"}}}
+{"id": "vm-0057", "language": "mr", "style": "direct", "utterance": "वैद्यकीय मदत उघडा", "action": {"action": "OPEN_SECTION", "parameters": {"category": "MEDICAL"}}}
+{"id": "vm-0058", "language": "mr", "style": "indirect", "utterance": "मला वैद्यकीय मदत दाखवा", "action": {"action": "OPEN_SECTION", "parameters": {"category": "MEDICAL"}}}
+{"id": "vm-0059", "language": "mr", "style": "short", "utterance": "वैद्यकीय मदत", "action": {"action": "OPEN_SECTION", "parameters": {"category": "MEDICAL"}}}
+{"id": "vm-0060", "language": "mr", "style": "noisy", "utterance": "ए वैद्यकीय मदत उघडा", "action": {"action": "OPEN_SECTION", "parameters": {"category": "MEDICAL"}}}
+{"id": "vm-0061", "language": "en", "style": "direct", "utterance": "Find nearest medical help", "action": {"action": "FIND_NEAREST", "parameters": {"category": "MEDICAL"}}}
+{"id": "vm-0062", "language": "en", "style": "indirect", "utterance": "Where is the closest medical help?", "action": {"action": "FIND_NEAREST", "parameters": {"category": "MEDICAL"}}}
+{"id": "vm-0063", "language": "en", "style": "short", "utterance": "nearest medical help", "action": {"action": "FIND_NEAREST", "parameters": {"category": "MEDICAL"}}}
+{"id": "vm-0064", "language": "en", "style": "noisy", "utterance": "find uh nearest medical help", "action": {"action": "FIND_NEAREST", "parameters": {"category": "MEDICAL"}}}
+{"id": "vm-0065", "language": "hi", "style": "direct", "utterance": "सबसे नजदीक डॉक्टर ढूंढो", "action": {"action": "FIND_NEAREST", "parameters": {"category": "MEDICAL"}}}
+{"id": "vm-0066", "language": "hi", "style": "indirect", "utterance": "सबसे पास डॉक्टर कहाँ है?", "action": {"action": "FIND_NEAREST", "parameters": {"category": "MEDICAL"}}}
+{"id": "vm-0067", "language": "hi", "style": "short", "utterance": "नजदीक डॉक्टर", "action": {"action": "FIND_NEAREST", "parameters": {"category": "MEDICAL"}}}
+{"id": "vm-0068", "language": "hi", "style": "noisy", "utterance": "पास वाला डॉक्टर बताओ", "action": {"action": "FIND_NEAREST", "parameters": {"category": "MEDICAL"}}}
+{"id": "vm-0069", "language": "mr", "style": "direct", "utterance": "सर्वात जवळचे वैद्यकीय मदत शोधा", "action": {"action": "FIND_NEAREST", "parameters": {"category": "MEDICAL"}}}
+{"id": "vm-0070", "language": "mr", "style": "indirect", "utterance": "सर्वात जवळ वैद्यकीय मदत कुठे आहे?", "action": {"action": "FIND_NEAREST", "parameters": {"category": "MEDICAL"}}}
+{"id": "vm-0071", "language": "mr", "style": "short", "utterance": "जवळचे वैद्यकीय मदत", "action": {"action": "FIND_NEAREST", "parameters": {"category": "MEDICAL"}}}
+{"id": "vm-0072", "language": "mr", "style": "noisy", "utterance": "जवळचं वैद्यकीय मदत सांगा", "action": {"action": "FIND_NEAREST", "parameters": {"category": "MEDICAL"}}}
+{"id": "vm-0073", "language": "en", "style": "direct", "utterance": "Open a toilet", "action": {"action": "OPEN_SECTION", "parameters": {"category": "TOILET"}}}
+{"id": "vm-0074", "language": "en", "style": "indirect", "utterance": "I want to see a toilet", "action": {"action": "OPEN_SECTION", "parameters": {"category": "TOILET"}}}
+{"id": "vm-0075", "language": "en", "style": "short", "utterance": "a toilet", "action": {"action": "OPEN_SECTION", "parameters": {"category": "TOILET"}}}
+{"id": "vm-0076", "language": "en", "style": "noisy", "utterance": "uh open a toilet please", "action": {"action": "OPEN_SECTION", "parameters": {"category": "TOILET"}}}
+{"id": "vm-0077", "language": "hi", "style": "direct", "utterance": "शौचालय खोलो", "action": {"action": "OPEN_SECTION", "parameters": {"category": "TOILET"}}}
+{"id": "vm-0078", "language": "hi", "style": "indirect", "utterance": "मुझे शौचालय दिखाइए", "action": {"action": "OPEN_SECTION", "parameters": {"category": "TOILET"}}}
+{"id": "vm-0079", "language": "hi", "style": "short", "utterance": "शौचालय", "action": {"action": "OPEN_SECTION", "parameters": {"category": "TOILET"}}}
+{"id": "vm-0080", "language": "hi", "style": "noisy", "utterance": "अरे शौचालय खोलो", "action": {"action": "OPEN_SECTION", "parameters": {"category": "TOILET"}}}
+{"id": "vm-0081", "language": "mr", "style": "direct", "utterance": "स्वच्छतागृह उघडा", "action": {"action": "OPEN_SECTION", "parameters": {"category": "TOILET"}}}
+{"id": "vm-0082", "language": "mr", "style": "indirect", "utterance": "मला स्वच्छतागृह दाखवा", "action": {"action": "OPEN_SECTION", "parameters": {"category": "TOILET"}}}
+{"id": "vm-0083", "language": "mr", "style": "short", "utterance": "स्वच्छतागृह", "action": {"action": "OPEN_SECTION", "parameters": {"category": "TOILET"}}}
+{"id": "vm-0084", "language": "mr", "style": "noisy", "utterance": "ए स्वच्छतागृह उघडा", "action": {"action": "OPEN_SECTION", "parameters": {"category": "TOILET"}}}
+{"id": "vm-0085", "language": "en", "style": "direct", "utterance": "Find nearest a toilet", "action": {"action": "FIND_NEAREST", "parameters": {"category": "TOILET"}}}
+{"id": "vm-0086", "language": "en", "style": "indirect", "utterance": "Where is the closest a toilet?", "action": {"action": "FIND_NEAREST", "parameters": {"category": "TOILET"}}}
+{"id": "vm-0087", "language": "en", "style": "short", "utterance": "nearest a toilet", "action": {"action": "FIND_NEAREST", "parameters": {"category": "TOILET"}}}
+{"id": "vm-0088", "language": "en", "style": "noisy", "utterance": "find uh nearest a toilet", "action": {"action": "FIND_NEAREST", "parameters": {"category": "TOILET"}}}
+{"id": "vm-0089", "language": "hi", "style": "direct", "utterance": "सबसे नजदीक शौचालय ढूंढो", "action": {"action": "FIND_NEAREST", "parameters": {"category": "TOILET"}}}
+{"id": "vm-0090", "language": "hi", "style": "indirect", "utterance": "सबसे पास शौचालय कहाँ है?", "action": {"action": "FIND_NEAREST", "parameters": {"category": "TOILET"}}}
+{"id": "vm-0091", "language": "hi", "style": "short", "utterance": "नजदीक शौचालय", "action": {"action": "FIND_NEAREST", "parameters": {"category": "TOILET"}}}
+{"id": "vm-0092", "language": "hi", "style": "noisy", "utterance": "पास वाला शौचालय बताओ", "action": {"action": "FIND_NEAREST", "parameters": {"category": "TOILET"}}}
+{"id": "vm-0093", "language": "mr", "style": "direct", "utterance": "सर्वात जवळचे स्वच्छतागृह शोधा", "action": {"action": "FIND_NEAREST", "parameters": {"category": "TOILET"}}}
+{"id": "vm-0094", "language": "mr", "style": "indirect", "utterance": "सर्वात जवळ स्वच्छतागृह कुठे आहे?", "action": {"action": "FIND_NEAREST", "parameters": {"category": "TOILET"}}}
+{"id": "vm-0095", "language": "mr", "style": "short", "utterance": "जवळचे स्वच्छतागृह", "action": {"action": "FIND_NEAREST", "parameters": {"category": "TOILET"}}}
+{"id": "vm-0096", "language": "mr", "style": "noisy", "utterance": "जवळचं स्वच्छतागृह सांगा", "action": {"action": "FIND_NEAREST", "parameters": {"category": "TOILET"}}}
+{"id": "vm-0097", "language": "en", "style": "direct", "utterance": "Open a place to stay", "action": {"action": "OPEN_SECTION", "parameters": {"category": "ACCOMMODATION"}}}
+{"id": "vm-0098", "language": "en", "style": "indirect", "utterance": "I want to see a place to stay", "action": {"action": "OPEN_SECTION", "parameters": {"category": "ACCOMMODATION"}}}
+{"id": "vm-0099", "language": "en", "style": "short", "utterance": "a place to stay", "action": {"action": "OPEN_SECTION", "parameters": {"category": "ACCOMMODATION"}}}
+{"id": "vm-0100", "language": "en", "style": "noisy", "utterance": "uh open a place to stay please", "action": {"action": "OPEN_SECTION", "parameters": {"category": "ACCOMMODATION"}}}
+{"id": "vm-0101", "language": "hi", "style": "direct", "utterance": "रुकने की जगह खोलो", "action": {"action": "OPEN_SECTION", "parameters": {"category": "ACCOMMODATION"}}}
+{"id": "vm-0102", "language": "hi", "style": "indirect", "utterance": "मुझे रुकने की जगह दिखाइए", "action": {"action": "OPEN_SECTION", "parameters": {"category": "ACCOMMODATION"}}}
+{"id": "vm-0103", "language": "hi", "style": "short", "utterance": "रुकने की जगह", "action": {"action": "OPEN_SECTION", "parameters": {"category": "ACCOMMODATION"}}}
+{"id": "vm-0104", "language": "hi", "style": "noisy", "utterance": "अरे रुकने की जगह खोलो", "action": {"action": "OPEN_SECTION", "parameters": {"category": "ACCOMMODATION"}}}
+{"id": "vm-0105", "language": "mr", "style": "direct", "utterance": "राहण्याची जागा उघडा", "action": {"action": "OPEN_SECTION", "parameters": {"category": "ACCOMMODATION"}}}
+{"id": "vm-0106", "language": "mr", "style": "indirect", "utterance": "मला राहण्याची जागा दाखवा", "action": {"action": "OPEN_SECTION", "parameters": {"category": "ACCOMMODATION"}}}
+{"id": "vm-0107", "language": "mr", "style": "short", "utterance": "राहण्याची जागा", "action": {"action": "OPEN_SECTION", "parameters": {"category": "ACCOMMODATION"}}}
+{"id": "vm-0108", "language": "mr", "style": "noisy", "utterance": "ए राहण्याची जागा उघडा", "action": {"action": "OPEN_SECTION", "parameters": {"category": "ACCOMMODATION"}}}
+{"id": "vm-0109", "language": "en", "style": "direct", "utterance": "Find nearest a place to stay", "action": {"action": "FIND_NEAREST", "parameters": {"category": "ACCOMMODATION"}}}
+{"id": "vm-0110", "language": "en", "style": "indirect", "utterance": "Where is the closest a place to stay?", "action": {"action": "FIND_NEAREST", "parameters": {"category": "ACCOMMODATION"}}}
+{"id": "vm-0111", "language": "en", "style": "short", "utterance": "nearest a place to stay", "action": {"action": "FIND_NEAREST", "parameters": {"category": "ACCOMMODATION"}}}
+{"id": "vm-0112", "language": "en", "style": "noisy", "utterance": "find uh nearest a place to stay", "action": {"action": "FIND_NEAREST", "parameters": {"category": "ACCOMMODATION"}}}
+{"id": "vm-0113", "language": "hi", "style": "direct", "utterance": "सबसे नजदीक रुकने की जगह ढूंढो", "action": {"action": "FIND_NEAREST", "parameters": {"category": "ACCOMMODATION"}}}
+{"id": "vm-0114", "language": "hi", "style": "indirect", "utterance": "सबसे पास रुकने की जगह कहाँ है?", "action": {"action": "FIND_NEAREST", "parameters": {"category": "ACCOMMODATION"}}}
+{"id": "vm-0115", "language": "hi", "style": "short", "utterance": "नजदीक रुकने की जगह", "action": {"action": "FIND_NEAREST", "parameters": {"category": "ACCOMMODATION"}}}
+{"id": "vm-0116", "language": "hi", "style": "noisy", "utterance": "पास वाला रुकने की जगह बताओ", "action": {"action": "FIND_NEAREST", "parameters": {"category": "ACCOMMODATION"}}}
+{"id": "vm-0117", "language": "mr", "style": "direct", "utterance": "सर्वात जवळचे राहण्याची जागा शोधा", "action": {"action": "FIND_NEAREST", "parameters": {"category": "ACCOMMODATION"}}}
+{"id": "vm-0118", "language": "mr", "style": "indirect", "utterance": "सर्वात जवळ राहण्याची जागा कुठे आहे?", "action": {"action": "FIND_NEAREST", "parameters": {"category": "ACCOMMODATION"}}}
+{"id": "vm-0119", "language": "mr", "style": "short", "utterance": "जवळचे राहण्याची जागा", "action": {"action": "FIND_NEAREST", "parameters": {"category": "ACCOMMODATION"}}}
+{"id": "vm-0120", "language": "mr", "style": "noisy", "utterance": "जवळचं राहण्याची जागा सांगा", "action": {"action": "FIND_NEAREST", "parameters": {"category": "ACCOMMODATION"}}}
+{"id": "vm-0121", "language": "en", "style": "direct", "utterance": "Open transport", "action": {"action": "OPEN_SECTION", "parameters": {"category": "TRANSPORT"}}}
+{"id": "vm-0122", "language": "en", "style": "indirect", "utterance": "I want to see transport", "action": {"action": "OPEN_SECTION", "parameters": {"category": "TRANSPORT"}}}
+{"id": "vm-0123", "language": "en", "style": "short", "utterance": "transport", "action": {"action": "OPEN_SECTION", "parameters": {"category": "TRANSPORT"}}}
+{"id": "vm-0124", "language": "en", "style": "noisy", "utterance": "uh open transport please", "action": {"action": "OPEN_SECTION", "parameters": {"category": "TRANSPORT"}}}
+{"id": "vm-0125", "language": "hi", "style": "direct", "utterance": "यातायात खोलो", "action": {"action": "OPEN_SECTION", "parameters": {"category": "TRANSPORT"}}}
+{"id": "vm-0126", "language": "hi", "style": "indirect", "utterance": "मुझे यातायात दिखाइए", "action": {"action": "OPEN_SECTION", "parameters": {"category": "TRANSPORT"}}}
+{"id": "vm-0127", "language": "hi", "style": "short", "utterance": "यातायात", "action": {"action": "OPEN_SECTION", "parameters": {"category": "TRANSPORT"}}}
+{"id": "vm-0128", "language": "hi", "style": "noisy", "utterance": "अरे यातायात खोलो", "action": {"action": "OPEN_SECTION", "parameters": {"category": "TRANSPORT"}}}
+{"id": "vm-0129", "language": "mr", "style": "direct", "utterance": "वाहतूक उघडा", "action": {"action": "OPEN_SECTION", "parameters": {"category": "TRANSPORT"}}}
+{"id": "vm-0130", "language": "mr", "style": "indirect", "utterance": "मला वाहतूक दाखवा", "action": {"action": "OPEN_SECTION", "parameters": {"category": "TRANSPORT"}}}
+{"id": "vm-0131", "language": "mr", "style": "short", "utterance": "वाहतूक", "action": {"action": "OPEN_SECTION", "parameters": {"category": "TRANSPORT"}}}
+{"id": "vm-0132", "language": "mr", "style": "noisy", "utterance": "ए वाहतूक उघडा", "action": {"action": "OPEN_SECTION", "parameters": {"category": "TRANSPORT"}}}
+{"id": "vm-0133", "language": "en", "style": "direct", "utterance": "Find nearest transport", "action": {"action": "FIND_NEAREST", "parameters": {"category": "TRANSPORT"}}}
+{"id": "vm-0134", "language": "en", "style": "indirect", "utterance": "Where is the closest transport?", "action": {"action": "FIND_NEAREST", "parameters": {"category": "TRANSPORT"}}}
+{"id": "vm-0135", "language": "en", "style": "short", "utterance": "nearest transport", "action": {"action": "FIND_NEAREST", "parameters": {"category": "TRANSPORT"}}}
+{"id": "vm-0136", "language": "en", "style": "noisy", "utterance": "find uh nearest transport", "action": {"action": "FIND_NEAREST", "parameters": {"category": "TRANSPORT"}}}
+{"id": "vm-0137", "language": "hi", "style": "direct", "utterance": "सबसे नजदीक यातायात ढूंढो", "action": {"action": "FIND_NEAREST", "parameters": {"category": "TRANSPORT"}}}
+{"id": "vm-0138", "language": "hi", "style": "indirect", "utterance": "सबसे पास यातायात कहाँ है?", "action": {"action": "FIND_NEAREST", "parameters": {"category": "TRANSPORT"}}}
+{"id": "vm-0139", "language": "hi", "style": "short", "utterance": "नजदीक यातायात", "action": {"action": "FIND_NEAREST", "parameters": {"category": "TRANSPORT"}}}
+{"id": "vm-0140", "language": "hi", "style": "noisy", "utterance": "पास वाला यातायात बताओ", "action": {"action": "FIND_NEAREST", "parameters": {"category": "TRANSPORT"}}}
+{"id": "vm-0141", "language": "mr", "style": "direct", "utterance": "सर्वात जवळचे वाहतूक शोधा", "action": {"action": "FIND_NEAREST", "parameters": {"category": "TRANSPORT"}}}
+{"id": "vm-0142", "language": "mr", "style": "indirect", "utterance": "सर्वात जवळ वाहतूक कुठे आहे?", "action": {"action": "FIND_NEAREST", "parameters": {"category": "TRANSPORT"}}}
+{"id": "vm-0143", "language": "mr", "style": "short", "utterance": "जवळचे वाहतूक", "action": {"action": "FIND_NEAREST", "parameters": {"category": "TRANSPORT"}}}
+{"id": "vm-0144", "language": "mr", "style": "noisy", "utterance": "जवळचं वाहतूक सांगा", "action": {"action": "FIND_NEAREST", "parameters": {"category": "TRANSPORT"}}}
+{"id": "vm-0145", "language": "en", "style": "direct", "utterance": "Open women help", "action": {"action": "OPEN_SECTION", "parameters": {"category": "WOMEN"}}}
+{"id": "vm-0146", "language": "en", "style": "indirect", "utterance": "I want to see women help", "action": {"action": "OPEN_SECTION", "parameters": {"category": "WOMEN"}}}
+{"id": "vm-0147", "language": "en", "style": "short", "utterance": "women help", "action": {"action": "OPEN_SECTION", "parameters": {"category": "WOMEN"}}}
+{"id": "vm-0148", "language": "en", "style": "noisy", "utterance": "uh open women help please", "action": {"action": "OPEN_SECTION", "parameters": {"category": "WOMEN"}}}
+{"id": "vm-0149", "language": "hi", "style": "direct", "utterance": "महिला सहायता खोलो", "action": {"action": "OPEN_SECTION", "parameters": {"category": "WOMEN"}}}
+{"id": "vm-0150", "language": "hi", "style": "indirect", "utterance": "मुझे महिला सहायता दिखाइए", "action": {"action": "OPEN_SECTION", "parameters": {"category": "WOMEN"}}}
+{"id": "vm-0151", "language": "hi", "style": "short", "utterance": "महिला सहायता", "action": {"action": "OPEN_SECTION", "parameters": {"category": "WOMEN"}}}
+{"id": "vm-0152", "language": "hi", "style": "noisy", "utterance": "अरे महिला सहायता खोलो", "action": {"action": "OPEN_SECTION", "parameters": {"category": "WOMEN"}}}
+{"id": "vm-0153", "language": "mr", "style": "direct", "utterance": "महिला मदत उघडा", "action": {"action": "OPEN_SECTION", "parameters": {"category": "WOMEN"}}}
+{"id": "vm-0154", "language": "mr", "style": "indirect", "utterance": "मला महिला मदत दाखवा", "action": {"action": "OPEN_SECTION", "parameters": {"category": "WOMEN"}}}
+{"id": "vm-0155", "language": "mr", "style": "short", "utterance": "महिला मदत", "action": {"action": "OPEN_SECTION", "parameters": {"category": "WOMEN"}}}
+{"id": "vm-0156", "language": "mr", "style": "noisy", "utterance": "ए महिला मदत उघडा", "action": {"action": "OPEN_SECTION", "parameters": {"category": "WOMEN"}}}
+{"id": "vm-0157", "language": "en", "style": "direct", "utterance": "Find nearest women help", "action": {"action": "FIND_NEAREST", "parameters": {"category": "WOMEN"}}}
+{"id": "vm-0158", "language": "en", "style": "indirect", "utterance": "Where is the closest women help?", "action": {"action": "FIND_NEAREST", "parameters": {"category": "WOMEN"}}}
+{"id": "vm-0159", "language": "en", "style": "short", "utterance": "nearest women help", "action": {"action": "FIND_NEAREST", "parameters": {"category": "WOMEN"}}}
+{"id": "vm-0160", "language": "en", "style": "noisy", "utterance": "find uh nearest women help", "action": {"action": "FIND_NEAREST", "parameters": {"category": "WOMEN"}}}
+{"id": "vm-0161", "language": "hi", "style": "direct", "utterance": "सबसे नजदीक महिला सहायता ढूंढो", "action": {"action": "FIND_NEAREST", "parameters": {"category": "WOMEN"}}}
+{"id": "vm-0162", "language": "hi", "style": "indirect", "utterance": "सबसे पास महिला सहायता कहाँ है?", "action": {"action": "FIND_NEAREST", "parameters": {"category": "WOMEN"}}}
+{"id": "vm-0163", "language": "hi", "style": "short", "utterance": "नजदीक महिला सहायता", "action": {"action": "FIND_NEAREST", "parameters": {"category": "WOMEN"}}}
+{"id": "vm-0164", "language": "hi", "style": "noisy", "utterance": "पास वाला महिला सहायता बताओ", "action": {"action": "FIND_NEAREST", "parameters": {"category": "WOMEN"}}}
+{"id": "vm-0165", "language": "mr", "style": "direct", "utterance": "सर्वात जवळचे महिला मदत शोधा", "action": {"action": "FIND_NEAREST", "parameters": {"category": "WOMEN"}}}
+{"id": "vm-0166", "language": "mr", "style": "indirect", "utterance": "सर्वात जवळ महिला मदत कुठे आहे?", "action": {"action": "FIND_NEAREST", "parameters": {"category": "WOMEN"}}}
+{"id": "vm-0167", "language": "mr", "style": "short", "utterance": "जवळचे महिला मदत", "action": {"action": "FIND_NEAREST", "parameters": {"category": "WOMEN"}}}
+{"id": "vm-0168", "language": "mr", "style": "noisy", "utterance": "जवळचं महिला मदत सांगा", "action": {"action": "FIND_NEAREST", "parameters": {"category": "WOMEN"}}}
+{"id": "vm-0169", "language": "en", "style": "direct", "utterance": "Go back", "action": {"action": "GO_BACK", "parameters": {}}}
+{"id": "vm-0170", "language": "en", "style": "short", "utterance": "back", "action": {"action": "GO_BACK", "parameters": {}}}
+{"id": "vm-0171", "language": "en", "style": "noisy", "utterance": "uh go back", "action": {"action": "GO_BACK", "parameters": {}}}
+{"id": "vm-0172", "language": "hi", "style": "direct", "utterance": "पीछे जाओ", "action": {"action": "GO_BACK", "parameters": {}}}
+{"id": "vm-0173", "language": "hi", "style": "short", "utterance": "वापस", "action": {"action": "GO_BACK", "parameters": {}}}
+{"id": "vm-0174", "language": "mr", "style": "direct", "utterance": "मागे जा", "action": {"action": "GO_BACK", "parameters": {}}}
+{"id": "vm-0175", "language": "mr", "style": "short", "utterance": "परत", "action": {"action": "GO_BACK", "parameters": {}}}
+{"id": "vm-0176", "language": "en", "style": "direct", "utterance": "Close this section", "action": {"action": "CLOSE_SECTION", "parameters": {}}}
+{"id": "vm-0177", "language": "en", "style": "short", "utterance": "close", "action": {"action": "CLOSE_SECTION", "parameters": {}}}
+{"id": "vm-0178", "language": "hi", "style": "direct", "utterance": "यह सेक्शन बंद करो", "action": {"action": "CLOSE_SECTION", "parameters": {}}}
+{"id": "vm-0179", "language": "mr", "style": "direct", "utterance": "हा भाग बंद करा", "action": {"action": "CLOSE_SECTION", "parameters": {}}}
+{"id": "vm-0180", "language": "en", "style": "direct", "utterance": "Stop", "action": {"action": "STOP", "parameters": {}}}
+{"id": "vm-0181", "language": "en", "style": "short", "utterance": "stop listening", "action": {"action": "STOP", "parameters": {}}}
+{"id": "vm-0182", "language": "hi", "style": "direct", "utterance": "रुको", "action": {"action": "STOP", "parameters": {}}}
+{"id": "vm-0183", "language": "mr", "style": "direct", "utterance": "थांबा", "action": {"action": "STOP", "parameters": {}}}
+{"id": "vm-0184", "language": "en", "style": "direct", "utterance": "Show route to the selected place", "action": {"action": "SHOW_ROUTE", "parameters": {"destination": "selected"}}}
+{"id": "vm-0185", "language": "en", "style": "indirect", "utterance": "How do I walk there?", "action": {"action": "SHOW_ROUTE", "parameters": {"destination": "selected"}}}
+{"id": "vm-0186", "language": "hi", "style": "direct", "utterance": "वहाँ का रास्ता दिखाओ", "action": {"action": "SHOW_ROUTE", "parameters": {"destination": "selected"}}}
+{"id": "vm-0187", "language": "mr", "style": "direct", "utterance": "तिथला मार्ग दाखवा", "action": {"action": "SHOW_ROUTE", "parameters": {"destination": "selected"}}}
+{"id": "vm-0188", "language": "en", "style": "direct", "utterance": "How far is the selected place?", "action": {"action": "GET_DISTANCE", "parameters": {"location": "selected"}}}
+{"id": "vm-0189", "language": "hi", "style": "direct", "utterance": "कितनी दूर है?", "action": {"action": "GET_DISTANCE", "parameters": {"location": "selected"}}}
+{"id": "vm-0190", "language": "mr", "style": "direct", "utterance": "किती दूर आहे?", "action": {"action": "GET_DISTANCE", "parameters": {"location": "selected"}}}
+{"id": "vm-0191", "language": "en", "style": "direct", "utterance": "Select the first result", "action": {"action": "SELECT_LOCATION", "parameters": {"location_id": "result_1"}}}
+{"id": "vm-0192", "language": "en", "style": "followup", "utterance": "the nearest one", "action": {"action": "SELECT_LOCATION", "parameters": {"location_id": "nearest"}}}
+{"id": "vm-0193", "language": "hi", "style": "followup", "utterance": "सबसे पास वाला", "action": {"action": "SELECT_LOCATION", "parameters": {"location_id": "nearest"}}}
+{"id": "vm-0194", "language": "mr", "style": "followup", "utterance": "सर्वात जवळचे", "action": {"action": "SELECT_LOCATION", "parameters": {"location_id": "nearest"}}}
+{"id": "vm-0195", "language": "en", "style": "direct", "utterance": "Read the SOS help", "action": {"action": "READ_INFORMATION", "parameters": {"info_key": "how_to_sos"}}}
+{"id": "vm-0196", "language": "en", "style": "indirect", "utterance": "How does the voice button work?", "action": {"action": "READ_INFORMATION", "parameters": {"info_key": "how_to_voice"}}}
+{"id": "vm-0197", "language": "hi", "style": "direct", "utterance": "SOS की जानकारी पढ़ो", "action": {"action": "READ_INFORMATION", "parameters": {"info_key": "how_to_sos"}}}
+{"id": "vm-0198", "language": "mr", "style": "direct", "utterance": "आवाज कसा वापरायचा ते सांगा", "action": {"action": "READ_INFORMATION", "parameters": {"info_key": "how_to_voice"}}}
+{"id": "vm-0199", "language": "en", "style": "direct", "utterance": "What is Wari?", "action": {"action": "GENERAL_QUESTION", "parameters": {"text": "What is Wari?"}}}
+{"id": "vm-0200", "language": "en", "style": "noisy", "utterance": "um what is this app for", "action": {"action": "GENERAL_QUESTION", "parameters": {"text": "what is this app for"}}}
+{"id": "vm-0201", "language": "hi", "style": "direct", "utterance": "वारी क्या है?", "action": {"action": "GENERAL_QUESTION", "parameters": {"text": "वारी क्या है?"}}}
+{"id": "vm-0202", "language": "mr", "style": "direct", "utterance": "वारी म्हणजे काय?", "action": {"action": "GENERAL_QUESTION", "parameters": {"text": "वारी म्हणजे काय?"}}}
+{"id": "vm-0203", "language": "en", "style": "direct", "utterance": "Where will the Wari be on 2026-06-15?", "action": {"action": "GET_WARI_STATUS", "parameters": {"date": "2026-06-15"}}}
+{"id": "vm-0204", "language": "en", "style": "indirect", "utterance": "On 15 June 2026 at 5 pm where is the Wari scheduled?", "action": {"action": "GET_WARI_STATUS", "parameters": {"date": "2026-06-15", "time": "17:00"}}}
+{"id": "vm-0205", "language": "en", "style": "direct", "utterance": "Where is Dnyaneshwar palkhi scheduled on 2026-06-16?", "action": {"action": "GET_WARI_STATUS", "parameters": {"date": "2026-06-16", "palkhi": "dnyaneshwar"}}}
+{"id": "vm-0206", "language": "hi", "style": "direct", "utterance": "15 जून 2026 को वारी कहाँ होगी?", "action": {"action": "GET_WARI_STATUS", "parameters": {"date": "2026-06-15"}}}
+{"id": "vm-0207", "language": "hi", "style": "indirect", "utterance": "आज वारी का मुकाम कहाँ निर्धारित है, तारीख 2026-06-15", "action": {"action": "GET_WARI_STATUS", "parameters": {"date": "2026-06-15"}}}
+{"id": "vm-0208", "language": "mr", "style": "direct", "utterance": "2026-06-15 रोजी वारी कुठे असेल?", "action": {"action": "GET_WARI_STATUS", "parameters": {"date": "2026-06-15"}}}
+{"id": "vm-0209", "language": "mr", "style": "indirect", "utterance": "उद्या पालखी कुठून निघणार आहे 2026-06-16", "action": {"action": "GET_WARI_STATUS", "parameters": {"date": "2026-06-16"}}}
+{"id": "vm-0210", "language": "mr", "style": "noisy", "utterance": "संध्याकाळी ५ वाजता 2026-06-15 वारी कुठे", "action": {"action": "GET_WARI_STATUS", "parameters": {"date": "2026-06-15", "time": "17:00"}}}
+{"id": "vm-0211", "language": "en", "style": "direct", "utterance": "Report a lost person wearing a red shirt", "action": {"action": "LOST_PERSON_REPORT", "parameters": {"description": "red shirt"}}}
+{"id": "vm-0212", "language": "en", "style": "indirect", "utterance": "Someone is missing near the halt", "action": {"action": "LOST_PERSON_REPORT", "parameters": {"description": "missing person", "location": "halt"}}}
+{"id": "vm-0213", "language": "hi", "style": "direct", "utterance": "लाल कमीज वाला व्यक्ति गुम है", "action": {"action": "LOST_PERSON_REPORT", "parameters": {"description": "लाल कमीज"}}}
+{"id": "vm-0214", "language": "mr", "style": "direct", "utterance": "हरवलेल्या व्यक्तीचा अहवाल नोंदवा, निळी साडी", "action": {"action": "LOST_PERSON_REPORT", "parameters": {"description": "निळी साडी"}}}
+{"id": "vm-0215", "language": "en", "style": "direct", "utterance": "What is my family link status?", "action": {"action": "FAMILY_STATUS", "parameters": {}}}
+{"id": "vm-0216", "language": "en", "style": "followup", "utterance": "did my family get the report", "action": {"action": "FAMILY_STATUS", "parameters": {}}}
+{"id": "vm-0217", "language": "hi", "style": "direct", "utterance": "परिवार लिंक की स्थिति बताओ", "action": {"action": "FAMILY_STATUS", "parameters": {}}}
+{"id": "vm-0218", "language": "mr", "style": "direct", "utterance": "कुटुंब जोडणीची स्थिती सांगा", "action": {"action": "FAMILY_STATUS", "parameters": {}}}
